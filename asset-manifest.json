@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Newzila/static/css/main.31d6cfe0.css",
-    "main.js": "/Newzila/static/js/main.5ada1295.js",
+    "main.js": "/Newzila/static/js/main.ef9887fa.js",
     "static/js/453.8e787a8d.chunk.js": "/Newzila/static/js/453.8e787a8d.chunk.js",
     "index.html": "/Newzila/index.html",
-    "main.5ada1295.js.map": "/Newzila/static/js/main.5ada1295.js.map",
+    "main.ef9887fa.js.map": "/Newzila/static/js/main.ef9887fa.js.map",
     "453.8e787a8d.chunk.js.map": "/Newzila/static/js/453.8e787a8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.5ada1295.js"
+    "static/js/main.ef9887fa.js"
   ]
 }
